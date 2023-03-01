@@ -4,7 +4,7 @@
 
 ## - Existem outras entidades além dessas três?
 
-Sim, existe outras entidades que fazem ligações para melhores a facilitação das rotas.
+Sim, existe outras entidades que fazem ligações para facilitação como senac, instituição, turma e turno!
 
 ## - Quais são os principais campos e tipos?
 
